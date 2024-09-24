@@ -1,0 +1,13 @@
+D:\sahana\tasks\onetoone\src\main\java\com\kgisl\onetoone\controller\AddressController.java
+D:\sahana\tasks\onetoone\src\main\java\com\kgisl\onetoone\controller\EmployeeController.java
+D:\sahana\tasks\onetoone\src\main\java\com\kgisl\onetoone\entity\Address.java
+D:\sahana\tasks\onetoone\src\main\java\com\kgisl\onetoone\entity\Employee.java
+D:\sahana\tasks\onetoone\src\main\java\com\kgisl\onetoone\entity\Otp.java
+D:\sahana\tasks\onetoone\src\main\java\com\kgisl\onetoone\OnetooneApplication.java
+D:\sahana\tasks\onetoone\src\main\java\com\kgisl\onetoone\repository\AddressRepository.java
+D:\sahana\tasks\onetoone\src\main\java\com\kgisl\onetoone\repository\EmployeeRepository.java
+D:\sahana\tasks\onetoone\src\main\java\com\kgisl\onetoone\repository\OtpRepository.java
+D:\sahana\tasks\onetoone\src\main\java\com\kgisl\onetoone\service\AddressService.java
+D:\sahana\tasks\onetoone\src\main\java\com\kgisl\onetoone\service\EmailService.java
+D:\sahana\tasks\onetoone\src\main\java\com\kgisl\onetoone\service\EmployeeService.java
+D:\sahana\tasks\onetoone\src\main\java\com\kgisl\onetoone\util\OTPGenerator.java

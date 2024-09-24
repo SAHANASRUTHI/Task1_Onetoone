@@ -1,0 +1,7 @@
+com\kgisl\onetoone\entity\Address.class
+com\kgisl\onetoone\service\EmployeeService.class
+com\kgisl\onetoone\entity\Employee.class
+com\kgisl\onetoone\repository\EmployeeRepository.class
+com\kgisl\onetoone\controller\EmployeeController.class
+com\kgisl\onetoone\OnetooneApplication.class
+com\kgisl\onetoone\repository\AddressRepository.class
